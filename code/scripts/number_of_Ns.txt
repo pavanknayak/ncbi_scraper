@@ -1,0 +1,70 @@
+D11allR1combined.fastq
+Total number of reads:
+27154749
+Number of reads with 10 consecutive N's
+1412
+percentage of bad reads in D11allR1combined.fastq:
+.0051900
+D11allR2combined.fastq
+Total number of reads:
+27154749
+Number of reads with 10 consecutive N's
+2881
+percentage of bad reads in D11allR2combined.fastq:
+.0106000
+D12allR1combined.fastq
+Total number of reads:
+36346293
+Number of reads with 10 consecutive N's
+1362
+percentage of bad reads in D12allR1combined.fastq:
+.0037400
+D12allR2combined.fastq
+Total number of reads:
+36346293
+Number of reads with 10 consecutive N's
+3354
+percentage of bad reads in D12allR2combined.fastq:
+.0092200
+D13allR1combined.fastq
+Total number of reads:
+21982178
+Number of reads with 10 consecutive N's
+465
+percentage of bad reads in D13allR1combined.fastq:
+.0021100
+D13allR2combined.fastq
+Total number of reads:
+21982178
+Number of reads with 10 consecutive N's
+1621
+percentage of bad reads in D13allR2combined.fastq:
+.0073700
+D14allR1combined.fastq
+Total number of reads:
+39365611
+Number of reads with 10 consecutive N's
+1211
+percentage of bad reads in D14allR1combined.fastq:
+.0030700
+D14allR2combined.fastq
+Total number of reads:
+39365611
+Number of reads with 10 consecutive N's
+3389
+percentage of bad reads in D14allR2combined.fastq:
+.0086000
+D15allR1combined.fastq
+Total number of reads:
+24157574
+Number of reads with 10 consecutive N's
+1206
+percentage of bad reads in D15allR1combined.fastq:
+.0049900
+D15allR2combined.fastq
+Total number of reads:
+24157574
+Number of reads with 10 consecutive N's
+2499
+percentage of bad reads in D15allR2combined.fastq:
+.0103400
