@@ -1,4 +1,4 @@
-# Final Project Writeup
+# Project Writeup
 ## Pavan Nayak
 ## EE282
 
